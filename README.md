@@ -4,13 +4,11 @@
 ###### 代码如下：
 ######情况一：不传递参数
 <html>
-
     <head>
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
+   
         <title>Insert title here</title>
-
     </head>
 
     <body>
@@ -22,11 +20,19 @@
 </html>
 ######情况二：通过这个方法获取网页带过来的数据
 <html>
+
     <head>
+    
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
         <title>Insert title here</title>
+        
     </head>
+    
     <body>
+    
         <a href="m://my.com/?arg0=0&arg1=1">打开app</a><br/>
+        
     </body>
+    
 </html>
